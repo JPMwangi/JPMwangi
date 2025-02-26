@@ -27,7 +27,9 @@ I believe that **data is only valuable when it drives action.** Whether it’s m
 
 ## 📂 Featured Projects  
 🔹 **[Data-Science-Portfolio-Projects](https://github.com/JPMwangi/Data-Science-Portfolio-Projects)** – This repository showcases my data science projects and notes, developed as part of the Google Advanced Data Analytics coursework.
-🔹 **[Data-Science](https://github.com/JPMwangi/Data-Science)** – Data science project work.  
+
+🔹 **[Data-Science](https://github.com/JPMwangi/Data-Science)** – Data science project work. 
+
 🔹 **[Python-Development-Projects](https://github.com/JPMwangi/Python-Development-Projects)** – This is part of my Python Development Projects done as part of my course work.  
 
 ## 📡 Connect with Me  
